@@ -1,0 +1,12 @@
+{
+  "name": "ha-alarmo",
+  "version": "1.0.0",
+  "description": "Manage Alarmo, the local Home Assistant alarm: status, setup, sensors, siren and notification actions, users, arm/disarm and safe tests.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/HA-Alarmo-Plugin",
+  "license": "MIT",
+  "keywords": ["home-assistant", "alarmo", "alarm", "security", "sirens", "hacs"]
+}
